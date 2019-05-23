@@ -121,9 +121,18 @@ a { text-decoration: none }
 }
 #cards .card-header{
     color: green;
-    text-align: center;t
+    text-align: center;
 }
 #cards .card-text{
     color: green;
     text-align: justify;
+}
+#cards i{
+    color: black;
+}
+i{
+    color: white;
+}
+#carousel .textpromo{
+    padding-top: 7%;
 }
